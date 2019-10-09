@@ -1,1 +1,1 @@
-This repo contains code for *Binary Search Tree*.
+This repo contains code for **Binary Search Tree**.
